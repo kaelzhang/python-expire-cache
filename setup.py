@@ -16,9 +16,9 @@ setup(
     version = __version__,
     author = 'Kael Zhang',
     author_email = 'i@kael.me',
-    description = (''),
+    description = ('A process-safe python adapter to handle cache expiration.'),
     license = 'MIT',
-    keywords = 'neuron.js middleware javascript loader facade',
+    keywords = 'cache python expire memcached',
     url = 'https://github.com/kaelzhang/python-expire-cache',
     long_description=read('README.rst'),
     classifiers=[
